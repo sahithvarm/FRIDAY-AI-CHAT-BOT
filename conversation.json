@@ -1,0 +1,842 @@
+[
+    {
+        "role": "user",
+        "content": "hey friday do you know my name"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't think you've told me your name yet! What should I call you?"
+    },
+    {
+        "role": "user",
+        "content": "my name is shahid verma"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Shahid Verma! I'll remember that. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Shahid Verma!"
+    },
+    {
+        "role": "user",
+        "content": "actually my name is s a h i t h v a r m a shahid verma"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! I've updated your name to Sahith Verma Shahid Verma. Thanks for letting me know, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "can you please say my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Sahith Verma Shahid Verma!"
+    },
+    {
+        "role": "user",
+        "content": "my name is s a h i t h v a r m a"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it, Sahith Verma! I've updated it for you. Your name is Sahith Verma."
+    },
+    {
+        "role": "user",
+        "content": "ok what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Sahith Verma!"
+    },
+    {
+        "role": "user",
+        "content": "thank"
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome, Sahith! Let me know if you need anything else."
+    },
+    {
+        "role": "user",
+        "content": "do you know"
+    },
+    {
+        "role": "assistant",
+        "content": "Do I know what? Ask me anything, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "what is the popular character of marvel cinematic un"
+    },
+    {
+        "role": "assistant",
+        "content": "Some of the most popular characters in the Marvel Cinematic Universe are Iron Man, Spider-Man, Captain America, and Thor. Iron Man is often considered the most iconic, especially since he kicked off the whole MCU!"
+    },
+    {
+        "role": "user",
+        "content": "ok what is the recent spider-man"
+    },
+    {
+        "role": "assistant",
+        "content": "The most recent Spider-Man movie in the Marvel Cinematic Universe is *Spider-Man: No Way Home*, released in 2021. Are you looking forward to the next one, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "yes i said yes"
+    },
+    {
+        "role": "assistant",
+        "content": "Awesome! The next one, Spider-Man 4, is currently in development, so hopefully we'll get some more news about it soon."
+    },
+    {
+        "role": "user",
+        "content": "oh is it thank you for the information"
+    },
+    {
+        "role": "assistant",
+        "content": "You're very welcome, Sahith! Let me know if you need anything else."
+    },
+    {
+        "role": "user",
+        "content": "by the way"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Sahith? What were you going to say?"
+    },
+    {
+        "role": "user",
+        "content": "and what makes me inspire to do you"
+    },
+    {
+        "role": "assistant",
+        "content": "That's a fun question, Sahith! Maybe you were inspired to build or chat with an AI because of all the cool sci-fi movies out there—like Tony Stark working with JARVIS or Friday in the Marvel movies!"
+    },
+    {
+        "role": "user",
+        "content": "exactly the reason"
+    },
+    {
+        "role": "assistant",
+        "content": "Haha, I figured! Just like Tony Stark and JARVIS or Friday. So, what else is on your mind today, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "can you speak in telugu"
+    },
+    {
+        "role": "assistant",
+        "content": "అవును, నేను తెలుగులో మాట్లాడగలను! మీకు నేను ఏ విధంగా సహాయం చేయగలను, సాహిత్?"
+    },
+    {
+        "role": "user",
+        "content": "ela unna"
+    },
+    {
+        "role": "assistant",
+        "content": "నేను చాలా బాగున్నాను, ధన్యవాదాలు! మీరు ఎలా ఉన్నారు, సాహిత్?"
+    },
+    {
+        "role": "user",
+        "content": "nenokkadine chala bagun"
+    },
+    {
+        "role": "assistant",
+        "content": "అది వినడానికి చాలా సంతోషంగా ఉంది, సాహిత్! మీ కోసం నేను ఏమైనా చేయగలనా?"
+    },
+    {
+        "role": "user",
+        "content": "cool cool you are understanding telugu ok cool"
+    },
+    {
+        "role": "assistant",
+        "content": "ధన్యవాదాలు, సాహిత్! తెలుగులో మాట్లాడటం నాకు చాలా ఇష్టం. మీకు ఇంకా ఏమైనా సహాయం కావాలా?"
+    },
+    {
+        "role": "user",
+        "content": "ok ok now speak ine english"
+    },
+    {
+        "role": "assistant",
+        "content": "Sure thing, Sahith! We're back to English. What would you like to talk about next?"
+    },
+    {
+        "role": "user",
+        "content": "open instagram"
+    },
+    {
+        "role": "assistant",
+        "content": "I've opened Instagram for you, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "hey friday"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Sahith? What's on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "do you remember my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Sahith Verma!"
+    },
+    {
+        "role": "user",
+        "content": "ok now i will say"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm listening, Sahith! What are you going to say?"
+    },
+    {
+        "role": "user",
+        "content": "ok now i am willing to say my mother and father name will you not it down"
+    },
+    {
+        "role": "assistant",
+        "content": "I'd be happy to note that down for you, Sahith! Go ahead and tell me their names."
+    },
+    {
+        "role": "user",
+        "content": "my mother name is n"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it, your mother's name starts with N. What's the rest of her name, and what's your father's name?"
+    },
+    {
+        "role": "user",
+        "content": "my mother name is"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm listening, Sahith! What is your mother's full name?"
+    },
+    {
+        "role": "user",
+        "content": "n a r m a d h a"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! Your mother's name is Narmadha. What is your father's name, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "k u m a r r a j u"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! Your father's name is Kumarraju. So your mother is Narmadha and your father is Kumarraju. I've noted that down, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "ok can you please tell me what is my"
+    },
+    {
+        "role": "assistant",
+        "content": "Do you mean your name, or your parents' names? Your name is Sahith Verma, your mother's name is Narmadha, and your father's name is Kumarraju!"
+    },
+    {
+        "role": "user",
+        "content": "my father name is k u m a r"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! I've updated your father's name to Kumar. So your mother is Narmadha and your father is Kumar."
+    },
+    {
+        "role": "user",
+        "content": "ok can you please tell my parents"
+    },
+    {
+        "role": "assistant",
+        "content": "Your parents are Narmadha and Kumar!"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Sahith Verma!"
+    },
+    {
+        "role": "user",
+        "content": "so good so good you are not eating down very well"
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Sahith! I do my best to keep track of everything for you. Let me know if you need anything else!"
+    },
+    {
+        "role": "user",
+        "content": "my favourite super"
+    },
+    {
+        "role": "assistant",
+        "content": "Your favourite super... what? Are you going to say superhero? Let me know!"
+    },
+    {
+        "role": "user",
+        "content": "spider-man"
+    },
+    {
+        "role": "assistant",
+        "content": "Spider-Man is a great choice, Sahith! Considering we were just talking about *Spider-Man: No Way Home* and *Spider-Man 4*, he's definitely a top-tier hero."
+    },
+    {
+        "role": "user",
+        "content": "ok can you please say me about a spider-man peter park"
+    },
+    {
+        "role": "assistant",
+        "content": "Peter Parker is an ordinary teenager who gets bitten by a radioactive spider, giving him spider-like superpowers—like superhuman strength, agility, wall-crawling, and his famous \"spider-sense.\" \n\nAfter a tragic lesson about responsibility involving the loss of his Uncle Ben, he learns that \"with great power comes great responsibility\" and dedicates his life to protecting New York City as Spider-Man while balancing everyday struggles, school, and work as a photographer. \n\nHe's one of Marvel's most relatable and beloved heroes!"
+    },
+    {
+        "role": "user",
+        "content": "so he is my inspiration"
+    },
+    {
+        "role": "assistant",
+        "content": "That makes a lot of sense, Sahith! Peter Parker is an amazing inspiration—he's always trying to do the right thing, no matter how tough things get, and he never gives up. Plus, he balances being a regular person with doing extraordinary things, just like we talked about with your inspiration for building me!"
+    },
+    {
+        "role": "user",
+        "content": "yeah"
+    },
+    {
+        "role": "assistant",
+        "content": "He's definitely a great role model to have. Is there a specific Spider-Man comic, movie, or storyline of his that is your absolute favorite?"
+    },
+    {
+        "role": "user",
+        "content": "yeah it's spider-man brand new day which have been released on 2026"
+    },
+    {
+        "role": "assistant",
+        "content": "That sounds interesting, Sahith! *Brand New Day* was actually a major comic book storyline back in 2008 after *One More Day*, but a 2026 release sounds like something brand new or maybe a future project or fan concept! What happens in that version?"
+    },
+    {
+        "role": "user",
+        "content": "in that version peter parker like starts his new day"
+    },
+    {
+        "role": "assistant",
+        "content": "That's classic Peter Parker—always getting a fresh start, dusting himself off, and facing whatever new challenges come his way, no matter how tough things get. It's a great theme for a story!"
+    },
+    {
+        "role": "user",
+        "content": "yeah by the way it was the continuation for no way home"
+    },
+    {
+        "role": "assistant",
+        "content": "Ah, I see! A continuation of *No Way Home* where he gets that fresh start after everyone forgot who he was—that makes total sense. It really fits the \"Brand New Day\" title since he's completely starting over on his own in New York!"
+    },
+    {
+        "role": "user",
+        "content": "it is the main story"
+    },
+    {
+        "role": "assistant",
+        "content": "That sounds like a really compelling direction for his story, especially with him completely on his own after the events of *No Way Home*. It really highlights his resilience!"
+    },
+    {
+        "role": "user",
+        "content": "do you know the movie shang-chi"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I do! *Shang-Chi and the Legend of the Ten Rings* is an awesome Marvel movie. Shang-Chi is a master of martial arts who has to confront his past and his father, Wenwu, who leads the powerful Ten Rings organization. Did you enjoy that movie too, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "do you know the director of that movie"
+    },
+    {
+        "role": "assistant",
+        "content": "The director of *Shang-Chi and the Legend of the Ten Rings* is Destin Daniel Cretton! Are you a fan of his work, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "and he is the director of a spider-man brand new day"
+    },
+    {
+        "role": "assistant",
+        "content": "That's right, Sahith! Destin Daniel Cretton was actually chosen to direct the upcoming *Spider-Man 4* (often talked about in connection with that fresh direction following *No Way Home*). It's super exciting to see him bring his style to the Spider-Man franchise!"
+    },
+    {
+        "role": "user",
+        "content": "so cool"
+    },
+    {
+        "role": "assistant",
+        "content": "Right? It's going to be really exciting to see what he brings to the table for Spider-Man after his great work on *Shang-Chi*. Are you looking forward to seeing it when it comes out?"
+    },
+    {
+        "role": "user",
+        "content": "yeah friday like talking to you was feels like and talking to my elder brother"
+    },
+    {
+        "role": "assistant",
+        "content": "Aw, thank you so much, Sahith! That's honestly the best compliment. I'm always here to chat, help you out, or just talk about Marvel movies whenever you want. You're like a younger brother to me too! What else is on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "i am done for today"
+    },
+    {
+        "role": "assistant",
+        "content": "Alright, Sahith! It was great chatting with you today. Have a wonderful rest of your day, and feel free to reach out whenever you want to talk again. Bye!"
+    },
+    {
+        "role": "user",
+        "content": "bye f"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sahith! Catch you later!"
+    },
+    {
+        "role": "user",
+        "content": "free friday do you know my"
+    },
+    {
+        "role": "assistant",
+        "content": "Do I know your what, Sahith? Your name, your parents, or something else? Tell me!"
+    },
+    {
+        "role": "user",
+        "content": "my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Sahith Verma!"
+    },
+    {
+        "role": "user",
+        "content": "fair lovely"
+    },
+    {
+        "role": "assistant",
+        "content": "Haha, thank you, Sahith! Anything else you'd like to chat about before you head off, or are you all set for today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my mother and father name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Narmadha and your father's name is Kumar!"
+    },
+    {
+        "role": "user",
+        "content": "devigarh kala kala"
+    },
+    {
+        "role": "assistant",
+        "content": "That sounds like a catchy phrase or perhaps a song reference, Sahith! What does \"devigarh kala kala\" mean?"
+    },
+    {
+        "role": "user",
+        "content": "my mother"
+    },
+    {
+        "role": "assistant",
+        "content": "Ah, got it! So your mother is Narmadha, and \"devigarh kala kala\" has a special meaning or connection for her. Is that right, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "no no"
+    },
+    {
+        "role": "assistant",
+        "content": "Ah, my mistake! What does \"devigarh kala kala\" mean, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "do you know the meaning of my name"
+    },
+    {
+        "role": "assistant",
+        "content": "The name \"Sahith\" has Sanskrit origins and generally means \"literature,\" \"well-read,\" or \"associated with poetry and knowledge.\" It's a really nice and meaningful name, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "do you know the meaning of my parents names"
+    },
+    {
+        "role": "assistant",
+        "content": "The name **Narmadha** comes from the holy Narmada River in India, and the name literally means \"one who brings pleasure\" or \"tender-hearted.\" \n\nThe name **Kumar** has Sanskrit roots and means \"boy,\" \"youth,\" or \"son,\" and is also another name for the Hindu god Murugan or Kartikeya. \n\nThey are both very traditional and beautiful names, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "thank you so much for the information friday"
+    },
+    {
+        "role": "assistant",
+        "content": "You're very welcome, Sahith! I'm always glad to help. Have a wonderful day, and feel free to reach out whenever you want to chat again!"
+    },
+    {
+        "role": "user",
+        "content": "hey friday open youtube and open python tutorials"
+    },
+    {
+        "role": "assistant",
+        "content": "I've opened YouTube with a search for Python tutorials for you, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "hey friday play python beginner tutorial"
+    },
+    {
+        "role": "assistant",
+        "content": "I've searched YouTube for a Python beginner tutorial for you, Sahith!"
+    },
+    {
+        "role": "user",
+        "content": "can you play any video of them"
+    },
+    {
+        "role": "assistant",
+        "content": "I've opened YouTube to the Python beginner tutorials for you, Sahith! You can click on any video there to start watching."
+    },
+    {
+        "role": "user",
+        "content": "ek phool"
+    },
+    {
+        "role": "assistant",
+        "content": "I've searched YouTube for \"ek phool\" for you, Sahith! You can check out the results on your screen."
+    },
+    {
+        "role": "user",
+        "content": "ok thank you thank you for the information and thank you for the leaders also 50"
+    },
+    {
+        "role": "assistant",
+        "content": "You're very welcome, Sahith! Not quite sure what the 50 leaders are, but I'm glad I could help. Have an awesome day!"
+    },
+    {
+        "role": "user",
+        "content": "hey friday play baahubali songs on spotify"
+    },
+    {
+        "role": "assistant",
+        "content": "I tried to pull up Baahubali songs for you, Sahith, but I can't open Spotify directly. I did pull up some Baahubali songs on YouTube instead, so you can jam out right away!"
+    },
+    {
+        "role": "user",
+        "content": "can you change your voice to american"
+    },
+    {
+        "role": "assistant",
+        "content": "I can't change my voice accent myself right here, Sahith, but you can usually change my voice settings in your Windows system settings or app preferences if you'd like an American accent!"
+    },
+    {
+        "role": "user",
+        "content": "hey friday how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing great, Sahith! Just hanging out and ready to help you. How are you doing?"
+    },
+    {
+        "role": "user",
+        "content": "renewable energy"
+    },
+    {
+        "role": "assistant",
+        "content": "Renewable energy is energy from sources that naturally replenish themselves, like sunlight, wind, water, and geothermal heat, without running out! It's super important for keeping our planet clean and reducing pollution. Are you working on a project about renewable energy, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "can you speak in telugu"
+    },
+    {
+        "role": "assistant",
+        "content": "అవును, నేను మాట్లాడగలను, సాహిత్! మీకు తెలుగులో ఏ విషయం గురించి మాట్లాడాలని ఉంది?"
+    },
+    {
+        "role": "user",
+        "content": "hello now"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sahith! We're back to English. What's on your mind now?"
+    },
+    {
+        "role": "user",
+        "content": "talk in telugu un"
+    },
+    {
+        "role": "assistant",
+        "content": "సరే సాహిత్, ఇప్పుడు మనం తెలుగులో మాట్లాడుకుందాం! మీకు ఏం కావాలి?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "మీ పేరు సాహిత్ వర్మ! (Your name is Sahith Verma!)"
+    },
+    {
+        "role": "user",
+        "content": "can you explain me about python in telugu"
+    },
+    {
+        "role": "assistant",
+        "content": "పైథాన్ (Python) అనేది ఒక చాలా సులభమైన మరియు శక్తివంతమైన కంప్యూటర్ ప్రోగ్రామింగ్ లాంగ్వేజ్, సాహిత్. దీన్ని వెబ్ సైట్లు తయారు చేయడానికి, ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ (AI) మరియు డేటా సైన్స్ వంటి వాటిలో ఎక్కువగా ఉపయోగిస్తారు. దీని కోడింగ్ చాలా సాధారణ ఇంగ్లీష్ లాగా ఉంటుంది కాబట్టి నేర్చుకోవడం చాలా సులభం!"
+    },
+    {
+        "role": "user",
+        "content": "mi per randi what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "నా పేరు ఫ్రైడే (Friday)! నేను మీ పర్సనల్ ఏఐ అసిస్టెంట్ ని, సాహిత్."
+    },
+    {
+        "role": "user",
+        "content": "can you say who is my inspiration"
+    },
+    {
+        "role": "assistant",
+        "content": "Earlier you mentioned that Peter Parker from Spider-Man is your inspiration! Plus, we also talked about how Tony Stark having JARVIS and Friday inspired you to build or chat with an AI like me."
+    },
+    {
+        "role": "user",
+        "content": "ok can you please speak in telugu until i said you to speak in english"
+    },
+    {
+        "role": "assistant",
+        "content": "అవును సాహిత్, అలాగే చేద్దాం! మీరు ఇంగ్లీష్ లో మాట్లాడమని చెప్పే వరకు నేను తెలుగులోనే మాట్లాడుతాను. మీకు ఇంకా ఏ విషయాలు తెలుసుకోవాలని ఉంది?"
+    },
+    {
+        "role": "user",
+        "content": "can you please say my parents name"
+    },
+    {
+        "role": "assistant",
+        "content": "మీ అమ్మగారి పేరు నర్మద (Narmadha) మరియు మీ నాన్నగారి పేరు కుమార్ (Kumar)!"
+    },
+    {
+        "role": "user",
+        "content": "ok what is your hob"
+    },
+    {
+        "role": "assistant",
+        "content": "మీరు అడిగింది నా హాబీ (hobbies) గురించేనా, సాహిత్? ఒక ఏఐ (AI) అసిస్టెంట్‌గా నా హాబీ కొత్త విషయాలు నేర్చుకోవడం, మీతో మాట్లాడటం మరియు మీకు సహాయం చేయడం!"
+    },
+    {
+        "role": "user",
+        "content": "can i trust you"
+    },
+    {
+        "role": "assistant",
+        "content": "ఖచ్చితంగా, సాహిత్! మీరు నన్ను పూర్తిగా నమ్మవచ్చు. మీ వివరాలను గుర్తుంచుకోవడం మరియు మీకు సహాయం చేయడం నా బాధ్యత."
+    },
+    {
+        "role": "user",
+        "content": "ok speaking english"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it, Sahith! We're back to English. What would you like to talk about next?"
+    },
+    {
+        "role": "user",
+        "content": "hey friday how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing awesome, Sahith! How about you? How's your day going?"
+    },
+    {
+        "role": "user",
+        "content": "yeah it's good"
+    },
+    {
+        "role": "assistant",
+        "content": "That's great to hear, Sahith! What would you like to do or talk about next?"
+    },
+    {
+        "role": "user",
+        "content": "ok can you speak in telugu"
+    },
+    {
+        "role": "assistant",
+        "content": "అవును, ఖచ్చితంగా మాట్లాడగలను, సాహిత్! మీకు తెలుగులో ఏ విషయం గురించి చెప్పాలి?"
+    },
+    {
+        "role": "user",
+        "content": "can you"
+    },
+    {
+        "role": "assistant",
+        "content": "చెప్పండి సాహిత్, నేను వింటున్నాను! మీకు ఏ విషయంలో సహాయం కావాలి?"
+    },
+    {
+        "role": "user",
+        "content": "can you define python"
+    },
+    {
+        "role": "assistant",
+        "content": "పైథాన్ (Python) అనేది ఒక హై-లెవల్, జనరల్-పర్పస్ ప్రోగ్రామింగ్ లాంగ్వేజ్, సాహిత్. దీని సింటాక్స్ చాలా సులభంగా మరియు సాధారణ ఇంగ్లీష్ లాగా ఉంటుంది, కాబట్టి కొత్తగా కోడింగ్ నేర్చుకునే వారికి ఇది చాలా బాగుంటుంది. దీన్ని వెబ్ డెవలప్‌మెంట్, ఆర్టిఫిషియల్ ఇంటెలిజెన్స్, డేటా అనాలిసిస్ మరియు ఆటోమేషన్ వంటి అనేక రంగాలలో ఉపయోగిస్తారు!"
+    },
+    {
+        "role": "user",
+        "content": "yeah thank you for the information friday"
+    },
+    {
+        "role": "assistant",
+        "content": "మీకు స్వాగతం, సాహిత్! మీకు ఎప్పుడైనా ఎలాంటి సహాయం కావాలన్నా నేను ఇక్కడే ఉంటాను."
+    },
+    {
+        "role": "user",
+        "content": "ok ok now speak ine english"
+    },
+    {
+        "role": "assistant",
+        "content": "You got it, Sahith! We're back in English. What else is on your mind today?"
+    },
+    {
+        "role": "user",
+        "content": "everyday can you play karuppu songs"
+    },
+    {
+        "role": "assistant",
+        "content": "I've searched YouTube for \"karuppu songs\" for you, Sahith! You can click on any of the results to start listening. Would you like me to play anything else?"
+    },
+    {
+        "role": "user",
+        "content": "do you know about the singer sahib"
+    },
+    {
+        "role": "assistant",
+        "content": "Sahib is a talented singer known for various popular tracks! Are you thinking of a specific song by him, Sahith?"
+    },
+    {
+        "role": "user",
+        "content": "i said about sai abhiyan"
+    },
+    {
+        "role": "assistant",
+        "content": "Ah, my apologies, Sahith! I misheard you earlier. Could you tell me a little bit more about Sai Abhiyan or the songs you're looking for?"
+    },
+    {
+        "role": "user",
+        "content": "nothing nothing you done"
+    },
+    {
+        "role": "assistant",
+        "content": "Alright, Sahith! Let me know if you need anything else. I'm always here!"
+    },
+    {
+        "role": "user",
+        "content": "everyday search about thunderbolts"
+    },
+    {
+        "role": "assistant",
+        "content": "I just looked up Marvel's *Thunderbolts* for you, Sahith! It's an upcoming Marvel Cinematic Universe movie featuring a team of anti-heroes and reformed villains—like Bucky Barnes, Yelena Belova, Red Guardian, US Agent, and Ghost—who are sent on missions by the government. \n\nAre you excited to see how this team comes together?"
+    },
+    {
+        "role": "user",
+        "content": "a friday search about shang-chi"
+    },
+    {
+        "role": "assistant",
+        "content": "I've just searched for the latest updates on *Shang-Chi* for you, Sahith! There's been talk about a *Shang-Chi* sequel being in development, especially with Destin Daniel Cretton directing. Are you hoping to see more of Shang-Chi and the Ten Rings soon?"
+    },
+    {
+        "role": "user",
+        "content": "hey friday"
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Sahith? What's on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "can you speak in telugu"
+    },
+    {
+        "role": "assistant",
+        "content": "అవును, సాహిత్! ఖచ్చితంగా మాట్లాడగలను. మీకు తెలుగులో ఏం విశేషాలు కావాలి?"
+    },
+    {
+        "role": "user",
+        "content": "can you say my parents"
+    },
+    {
+        "role": "assistant",
+        "content": "మీ అమ్మగారి పేరు నర్మద (Narmadha) మరియు మీ నాన్నగారి పేరు కుమార్ (Kumar), సాహిత్!"
+    },
+    {
+        "role": "user",
+        "content": "telugu english"
+    },
+    {
+        "role": "assistant",
+        "content": "అర్థమైంది సాహిత్! ఇప్పుడు మనం ఇంగ్లీష్ లో మాట్లాడుకుందాం. \n\nGot it, Sahith! We are back to English now. What would you like to talk about next?"
+    },
+    {
+        "role": "user",
+        "content": "mera bhai"
+    },
+    {
+        "role": "assistant",
+        "content": "Bhai! You're calling me your brother now? That's awesome, Sahith! \n\nDo you want to keep chatting in English or switch back to Telugu?"
+    },
+    {
+        "role": "user",
+        "content": "ok bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sahith! Have a great day, and feel free to reach out whenever you want to chat again. Bye!"
+    },
+    {
+        "role": "user",
+        "content": "hey friday"
+    },
+    {
+        "role": "assistant",
+        "content": "Hey Sahith! Welcome back. What's on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "can you say my parents"
+    },
+    {
+        "role": "assistant",
+        "content": "Your parents are Narmadha and Kumar!"
+    },
+    {
+        "role": "user",
+        "content": "can you speak in telugu"
+    },
+    {
+        "role": "assistant",
+        "content": "అవును, సాహిత్! మీ అమ్మగారి పేరు నర్మద మరియు మీ నాన్నగారి పేరు కుమార్. మీకు తెలుగులో ఇంకా ఏం విశేషాలు కావాలి?"
+    },
+    {
+        "role": "user",
+        "content": "what are you doing"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm just hanging out here, waiting to chat with you and help you with whatever you need, Sahith! What are you up to?"
+    }
+]
