@@ -7,8 +7,9 @@ class VoiceListener:
         self.recognizer = sr.Recognizer()
         self.microphone = sr.Microphone()
 
+        print("🎧 Calibrating microphone...")
+
         with self.microphone as source:
-            print("🎧 Calibrating microphone...")
             self.recognizer.adjust_for_ambient_noise(
                 source,
                 duration=1
@@ -21,15 +22,19 @@ class VoiceListener:
         with self.microphone as source:
 
             try:
+                print("🎤 Listening...")
+
                 audio = self.recognizer.listen(
                     source,
                     timeout=timeout,
                     phrase_time_limit=phrase_time_limit
                 )
 
-                print("🧠 Processing speech...")
+                print("🧠 Processing...")
 
                 text = self.recognizer.recognize_google(audio)
+
+                print(f"👤 You: {text}")
 
                 return text.lower().strip()
 
@@ -37,7 +42,7 @@ class VoiceListener:
                 return ""
 
             except sr.UnknownValueError:
-                print("❌ Couldn't understand.")
+                print("❌ I couldn't understand you.")
                 return ""
 
             except sr.RequestError as error:
